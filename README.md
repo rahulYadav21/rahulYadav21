@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulyadav21&label=Profile%20views&color=0e75b6&style=flat" alt="rahulyadav21" /> </p>
 
-- 🔭 I’m currently working on [Ghummakad](https://ghummakad-repo.vercel.app/)
+- 🔭 I’m currently working on [Ghummakad]
 
-- 🌱 I’m currently learning **Node,**
+- 🌱 I’m currently learning **Node and Express**
 
 - 💬 Ask me about **Java, Spring Boot, React, Html/Css, JavaScript**
 
