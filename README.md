@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rahulcs989@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FzwSIGtLwB1pUbkOQ1K53s8-dPZAKM5L/view?usp=sharing](https://drive.google.com/file/d/1FzwSIGtLwB1pUbkOQ1K53s8-dPZAKM5L/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1nle_xdJOdZhFbqj8Up_Xsky47QHDDb4N/view?usp=sharing
 
 - ⚡ Fun fact **I am jovial person**
 
