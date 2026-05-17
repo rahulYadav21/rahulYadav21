@@ -175,7 +175,6 @@ const rahul = {
 | | |
 |--|--|
 | 📧 Email | yadavrahul.cs@gmail.com |
-| 💼 Upwork | [Hire me](https://www.upwork.com/freelancers/~yourprofile) |
 | 🔗 LinkedIn | [linkedin.com/in/rahul0597](https://linkedin.com/in/rahul0597) |
 
 ---
