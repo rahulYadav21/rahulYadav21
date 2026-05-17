@@ -1,34 +1,28 @@
-<div align="center">
+<div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=120&section=header&animation=fadeIn" width="100%"/>
-
-# Hi 👋, I'm Rahul Yadav
-
-### Full-Stack MERN Developer · 3 Years of Production Experience
-### Building AI-Powered EdTech & SaaS Platforms
+<h1 align="center">Hi 👋, I'm Rahul Yadav</h1>
+<h3 align="center">Full-Stack MERN Developer · 3 Years · EdTech & SaaS Platforms</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rahul0597" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yadavrahul.cs@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1nle_xdJOdZhFbqj8Up_Xsky47QHDDb4N/view" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
-  </a>
+  <!-- <img src="https://komarev.com/ghpvc/?username=rahulYadav21&label=Profile+Views&color=4F46E5&style=flat-square"/> -->
+  <img src="https://img.shields.io/badge/Actively%20Seeking%20To-Good Opportunity-6FDA44?style=flat-square"/>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=rahulYadav21&label=Profile+Views&color=4F46E5&style=flat-square"/>
-
-</div>
 
 ---
 
-## 🧑‍💻 About Me
+I'm a **Full-Stack MERN Developer** with 3 years of production experience building **AI-powered EdTech** and **Multi-Tenant SaaS** platforms. I specialize in scalable architectures, secure REST APIs, and integrating LLMs into real products.
+
+- 🏢 Working at **IFLEX Technologies**, Noida — EdTech & E-commerce platforms
+- 🤖 Built **AI-powered IELTS LMS** with Mistral SDK — adaptive testing & automated scoring
+- 🏗️ Delivered **Multi-Tenant SaaS** (Stunel) — 4 role types, production-grade
+- ⚡ Reduced API response time **18%** · Improved query performance **25%**
+- 📚 Currently upskilling in **Redis · Docker · AWS · System Design**
+- 🌍 Open to **On-Site, Hybrid, Remote roles · Freelance · International opportunities**
+- 📫 Reach me at **yadavrahul.cs@gmail.com**
+
+---
+
+<!-- ## 🧑‍💻 About Me
 
 ```typescript
 const rahul = {
@@ -57,9 +51,9 @@ const rahul = {
   openTo              : ["Remote Full-Time", "Freelance", "International Roles"],
   contact             : "yadavrahul.cs@gmail.com"
 };
-```
+``` -->
 
----
+<!-- --- -->
 
 ## 🛠️ Tech Stack
 
@@ -139,33 +133,7 @@ const rahul = {
 
 ---
 
-## 🚀 Personal Projects
 
-### ⚡ EduAI — AI-Powered Quiz Platform *(Building)*
-Multi-role LMS with OpenAI-powered adaptive testing, real-time exam engine, and analytics dashboards.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RBAC-DC2626?style=for-the-badge&logo=shield&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
-
-[![Repo](https://img.shields.io/badge/GitHub-In_Progress-181717?style=flat-square&logo=github)](https://github.com/rahulYadav21/eduai)
-
----
-
-### 🏗️ TenantFlow — Multi-Tenant SaaS Boilerplate *(Building)*
-Production-ready SaaS starter kit with complete role hierarchy and tenant-isolated data architecture.
-
-`Next.js` `TypeScript` `MySQL` `Sequelize` `RBAC` `Tailwind`
-
-[![Repo](https://img.shields.io/badge/GitHub-In_Progress-181717?style=flat-square&logo=github)](https://github.com/rahulYadav21/tenantflow)
-
----
 
 ## 📊 GitHub Stats
 
@@ -184,20 +152,9 @@ Production-ready SaaS starter kit with complete role hierarchy and tenant-isolat
 
 ---
 
-## 📈 Currently Upskilling
-
-```
-Redis           ████████░░░░  Growing
-Docker          ██████░░░░░░  Learning
-AWS (EC2/S3)    █████░░░░░░░  Learning
-System Design   ████████░░░░  Growing
-```
-
----
-
 ## 🤝 Open To Opportunities
 
-🌍 **Remote Full-Time** — MERN / Node.js / Next.js Developer
+🌍 **Remote | On-Site | Hybrid** — MERN / Node.js / Next.js / Nest.js Developer
 
 💼 **Freelance Projects** — EdTech, SaaS, AI-integrated web apps
 
@@ -211,10 +168,4 @@ System Design   ████████░░░░  Growing
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=80&section=footer" width="100%"/>
-
-*"Don't just write code — architect solutions."*
-
-</div>
+**"Don't just write code — architect solutions."**
