@@ -1,34 +1,220 @@
-![MasterHead](https://camo.githubusercontent.com/2a63ca5341c9dd769b3cf9c86d6e31c37c586cb6a32176b8797454aa683b500f/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966)
-<h1 align="center">Hi 👋, I'm Rahul Yadav</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coader gif" width="400" src="https://bayanbox.ir/view/1353559592827697052/programmer.gif"/>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulyadav21&label=Profile%20views&color=0e75b6&style=flat" alt="rahulyadav21" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=120&section=header&animation=fadeIn" width="100%"/>
 
-- 🔭 I’m currently working on [Ghummakad](https://youtu.be/b6TGcvAdVdY?si=AUS_bT-0KTXXAqkB)
+# Hi 👋, I'm Rahul Yadav
 
-- 🌱 I’m currently learning **Node and Express**
+### Full-Stack MERN Developer · 3 Years of Production Experience
+### Building AI-Powered EdTech & SaaS Platforms
 
-- 💬 Ask me about **Java, Spring Boot, React, Html/Css, JavaScript**
-
-- 📫 How to reach me **rahulcs989@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nle_xdJOdZhFbqj8Up_Xsky47QHDDb4N/view?usp=sharing)
-
-- ⚡ Fun fact **I am jovial person**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul0597/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul0597/" height="30" width="40" /></a>
-<a href="https://instagram.com/rahul_ihawk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahul_ihawk" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ihawk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ihawk/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/rahul0597" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yadavrahul.cs@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1nle_xdJOdZhFbqj8Up_Xsky47QHDDb4N/view" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=rahulYadav21&label=Profile+Views&color=4F46E5&style=flat-square"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulyadav21&show_icons=true&locale=en&layout=compact" alt="rahulyadav21" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulyadav21&show_icons=true&locale=en" alt="rahulyadav21" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulyadav21&" alt="rahulyadav21" /></p>
+## 🧑‍💻 About Me
+
+```typescript
+const rahul = {
+  role:       "Full-Stack MERN Developer",
+  experience: "3 years (Production-grade)",
+  location:   "Noida, Uttar Pradesh, India",
+  company:    "IFLEX Technologies Pvt. Ltd.",
+  education:  "B.Tech Computer Science (2022)",
+
+  expertise: [
+    "AI-Powered EdTech Platforms",
+    "Multi-Tenant SaaS Architecture",
+    "RESTful API Design & Optimization",
+    "Role-Based Access Control (RBAC)",
+    "Next.js SSR/SSG Performance"
+  ],
+
+  achievements: {
+    backendOptimization : "Reduced API response time by 18%",
+    queryPerformance    : "Improved MySQL query speed by 25%",
+    pageLoad            : "Improved page load by 15%",
+    uiResponsiveness    : "Boosted UI responsiveness by 20%"
+  },
+
+  currentlyUpskilling : ["Redis", "Docker", "AWS", "System Design"],
+  openTo              : ["Remote Full-Time", "Freelance", "International Roles"],
+  contact             : "yadavrahul.cs@gmail.com"
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-DC2626?style=flat-square&logoColor=white)
+
+**Database & ORM**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**AI · Cloud · Tools**
+
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🏢 Professional Work @ IFLEX Technologies
+
+> Production systems · Private repos · Real-world impact
+
+### 🎓 IELTS LMS — AI-Powered EdTech Platform
+**Stack:** `Next.js` `Node.js` `MySQL` `Sequelize ORM` `Mistral AI SDK` `JWT` `RBAC`
+
+- Built complete LMS supporting all **11 official IELTS question patterns**
+- Integrated **Mistral AI SDK** for adaptive test generation & automated scoring — **20%+ efficiency gain**
+- Engineered real-time exam engine with **timer, auto-save, auto-submit** and role-based evaluation
+- Built analytics dashboards with interactive performance graphs for Admin / Instructor / Student
+- Secured entire platform with JWT + RBAC across 3 user roles
+
+---
+
+### 🏗️ Stunel — Multi-Tenant SaaS Platform
+**Stack:** `React.js` `Next.js` `Redux` `Tailwind CSS` `PHP/MySQL APIs`
+
+- Architected **multi-tenant education platform** — Super Admin, Partners, Teachers, Students
+- Built role-specific dashboards with live sessions and assignment/assessment workflows
+- Optimized for cross-device responsiveness and multi-role CRUD performance
+- Integrated React frontend with PHP/MySQL backend APIs
+
+---
+
+### 📊 Impact Numbers
+
+| Metric | Result |
+|--------|--------|
+| 🚀 Backend API response time | ↓ **18%** faster |
+| ⚡ MySQL query performance | ↑ **25%** improved |
+| 📄 Page load speed | ↑ **15%** faster |
+| 🎯 UI responsiveness | ↑ **20%** better |
+| 🤖 AI result processing | ↑ **20%+** efficient |
+
+---
+
+## 🚀 Personal Projects
+
+### ⚡ EduAI — AI-Powered Quiz Platform *(Building)*
+Multi-role LMS with OpenAI-powered adaptive testing, real-time exam engine, and analytics dashboards.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RBAC-DC2626?style=for-the-badge&logo=shield&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+[![Repo](https://img.shields.io/badge/GitHub-In_Progress-181717?style=flat-square&logo=github)](https://github.com/rahulYadav21/eduai)
+
+---
+
+### 🏗️ TenantFlow — Multi-Tenant SaaS Boilerplate *(Building)*
+Production-ready SaaS starter kit with complete role hierarchy and tenant-isolated data architecture.
+
+`Next.js` `TypeScript` `MySQL` `Sequelize` `RBAC` `Tailwind`
+
+[![Repo](https://img.shields.io/badge/GitHub-In_Progress-181717?style=flat-square&logo=github)](https://github.com/rahulYadav21/tenantflow)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulYadav21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulYadav21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rahulYadav21&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 Currently Upskilling
+
+```
+Redis           ████████░░░░  Growing
+Docker          ██████░░░░░░  Learning
+AWS (EC2/S3)    █████░░░░░░░  Learning
+System Design   ████████░░░░  Growing
+```
+
+---
+
+## 🤝 Open To Opportunities
+
+🌍 **Remote Full-Time** — MERN / Node.js / Next.js Developer
+
+💼 **Freelance Projects** — EdTech, SaaS, AI-integrated web apps
+
+✈️ **International** — Germany · UAE · Canada
+
+| | |
+|--|--|
+| 📧 Email | yadavrahul.cs@gmail.com |
+| 💼 Upwork | [Hire me](https://www.upwork.com/freelancers/~yourprofile) |
+| 🔗 LinkedIn | [linkedin.com/in/rahul0597](https://linkedin.com/in/rahul0597) |
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=80&section=footer" width="100%"/>
+
+*"Don't just write code — architect solutions."*
+
+</div>
