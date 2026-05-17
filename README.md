@@ -137,18 +137,30 @@ const rahul = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulYadav21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulYadav21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulYadav21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/> -->
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulYadav21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> -->
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rahulYadav21&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rahulYadav21)](https://git.io/streak-stats)
 
 </div>
+
+---
+
+### 📈 Contribution Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulYadav21&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulYadav21/rahulYadav21/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulYadav21/rahulYadav21/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rahulYadav21/rahulYadav21/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 ---
 
