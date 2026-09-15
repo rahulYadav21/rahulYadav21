@@ -10,7 +10,7 @@
 
 ---
 
-I'm a **Full-Stack MERN Developer** with 3 years of production experience building **AI-powered EdTech** and **Multi-Tenant SaaS** platforms. I specialize in scalable architectures, secure REST APIs, and integrating LLMs into real products.
+I'm a **Software Engineer | MERN Stack & AI Integration** with 3 years of production experience building **AI-powered EdTech** and **Multi-Tenant SaaS** platforms. I specialize in scalable architectures, secure REST APIs, and integrating LLMs into real products.
 
 - 🏢 Working at **IFLEX Technologies**, Noida — EdTech & E-commerce platforms
 - 🤖 Built **AI-powered IELTS LMS** with Mistral SDK — adaptive testing & automated scoring
