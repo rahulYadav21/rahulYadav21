@@ -1,7 +1,7 @@
 <div>
 
 <h1 align="center">Hi 👋, I'm Rahul Yadav</h1>
-<h3 align="center">Full-Stack MERN Developer · 3 Years · EdTech & SaaS Platforms</h3>
+<h3 align="center">Software Engineer | MERN Stack & AI Integration · 3 Years · EdTech & SaaS Platforms</h3>
 
 <p align="center">
   <!-- <img src="https://komarev.com/ghpvc/?username=rahulYadav21&label=Profile+Views&color=4F46E5&style=flat-square"/> -->
